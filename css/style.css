@@ -1,0 +1,21 @@
+.parallax-window {
+	height: 100vh;
+
+	/*background-color: black;*/
+	/*opacity: 0.5;*/
+
+	
+	/*background-image: url(../img/1.jpg);*/
+}
+
+.two {
+	height: 100vh;
+	background-color: #fff;
+
+}
+
+.text {
+	color: white;
+	padding: 20%;
+	font-size: 500%;
+}
